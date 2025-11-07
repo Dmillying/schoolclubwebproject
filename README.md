@@ -6,4 +6,4 @@
 <frame>, <frameset> 등 HTML5에서 사용할 수 없는 문법 대신 <iframe>과 css를 통하여 구현했습니다.
 
 #### frame 관련 태그를 사용하였으나 인식이 안된 모습 증거
-![image](./frame관련디버깅.jpeg)
+![image](./images/frame관련디버깅.jpeg)
